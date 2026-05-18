@@ -1,4 +1,4 @@
-# StrokeSense
+# stroke-prediction-system
 
 A machine learning model that predicts whether a person is at risk of a stroke based on health and lifestyle data!
 
@@ -126,3 +126,10 @@ In the future, more advanced models such as XGBoost or neural networks could be 
 # Status
 
 Completed
+
+## Live Demo
+[stroke-prediction-system](https://huggingface.co/spaces/Chikkuru/stroke-prediction-system)
+
+# stroke-prediction-system
+
+> 📖 Read the full article on Medium: [Building a Stroke Prediction Model Using Machine Learning](https://medium.com/@pournamyps9c/building-a-stroke-prediction-model-using-machine-learning-ef750121047a)
